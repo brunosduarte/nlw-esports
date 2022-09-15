@@ -18,10 +18,6 @@ function Button(props: ButtonProps) {
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>
-        Hello World
-      </Text>
-
       <Button  title='Send 1'/>
       <Button  title='Send 1'/>
       <Button  title='Send 1'/>
