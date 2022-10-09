@@ -19,8 +19,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Button  title='Send 1'/>
-      <Button  title='Send 1'/>
-      <Button  title='Send 1'/>
+      <Button  title='Send 2'/>
+      <Button  title='Hello World'/>
 
       <StatusBar style="auto" />
     </View>
